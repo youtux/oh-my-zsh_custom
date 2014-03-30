@@ -1,4 +1,5 @@
 update() {
+    upgrade_oh_my_zsh
     echo "Running brew update...";
     brew update
     echo "Running brew upgrade...";
