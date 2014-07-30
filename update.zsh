@@ -6,8 +6,8 @@ update() {
     brew upgrade
     # echo "Updating gems...";
     # gem update
-    echo "Running pip install --upgrade setuptools...";
-    pip install --upgrade setuptools
-    echo "Running pip install --upgrade pip...";
-    pip install --upgrade pip
+    # echo "Running pip install --upgrade setuptools...";
+    # pip install --upgrade setuptools
+    # echo "Running pip install --upgrade pip...";
+    # pip install --upgrade pip
 }
